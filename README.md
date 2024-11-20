@@ -16,11 +16,11 @@ I'd love to meet you! Pick a time slot to chat about anything you're passionate 
 
 ### &nbsp; 🛠️ Technical Skills
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🌱 **Frontend**: React, Next.js, Web3.js, Angular, Vue, Nuxt, Material UI, Bootstrap, TailwindCSS  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🌱 **Frontend**: React, Next.js, Web3.js, Angular, Vue, Material UI, TailwindCSS  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔭 **Backend**: Node.js, CI, Laravel, Django, Flask, Express, NestJS, PHP  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📱 **Mobile Development**: Android, React Native, Ionic, Flutter  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📂 **Database**: MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, AES Lambda, Spring Cloud  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 💻 **Programming Languages**: HTML, CSS, JavaScript, TypeScript, Python, PHP, C++, C#, Go  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📂 **Database**: MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite,
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 💻 **Programming Languages**: HTML, JavaScript, TypeScript, Python, PHP, C++, C#, Go  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔥 **CMS Platforms**: WordPress, Shopify, Wix, Framer, Webflow  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ⛓️ **Blockchain**: Solidity, Ethereum, Web3.js, Truffle, IPFS,  Solana, Cosmos SDK  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🎮 **Game Development**: Unity, Unreal Engine, Cocos2d, Game Maker Studio, Three.js 
