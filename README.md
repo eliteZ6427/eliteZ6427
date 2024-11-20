@@ -1,10 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Full+Stack+Developer;Senior+Software+Engineer)]()
-
-
+<hr/>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
+🌟 Bringing innovation to life through scalable, high-performance web applications.  
+⚡ Passionate about creating seamless user experiences and optimizing complex systems.  
+🤝 Let's build something extraordinary together!
 
+### 📫 Want to connect?
+I'd love to meet you! Pick a time slot to chat about anything you're passionate about—just share the agenda, and let's make it a meaningful conversation. Looking forward to connecting! 😊
+
+<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
+<br>
 
 <img align="left" alt="GIF" src="techstack.gif" width="360px"/>
 ### Skills
