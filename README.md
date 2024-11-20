@@ -1,25 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Full+Stack+Developer;Senior+Software+Engineer)]()
 
-<img align="left" alt="GIF" src="techstack.gif" width="360px"/>
-## Skills
-- 🌱 Frontend : React, Next, Web3.js, Angular, Vue, Nuxt, Jquery, Material UI, Bootstrap, TailwindCSS
-- 🔭 Backend : NodeJs, CI, Laravel, Django, Express, Nestjs, PHP,
-- 📲 Mobile: Android, React Native, Ionic, Flutter
-- 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, AES Lambda, Spring Cloud
-- 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Go
-- 🔥 CMS: WordPress, Shopify, Wix, Framer, Webflow
-  
 
-<!-- ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=Clojure)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift) -->
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966](https://github.com/user-attachments/assets/e9160ad1-913a-410c-992b-08159b4432c4)
+
+
+
+
+<img align="left" alt="GIF" src="techstack.gif" width="360px"/>
+### Skills
+ - 🌱 &nbsp; Frontend : React, Next, Web3.js, Angular, Vue, Nuxt, Jquery, Material UI, Bootstrap, TailwindCSS
+ - 🔭 &nbsp; Backend : NodeJs, CI, Laravel, Django, Express, Nestjs, PHP,
+ - 📲 &nbsp; Mobile: Android, React Native, Ionic, Flutter
+ - 🧩 &nbsp; Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, AES Lambda, Spring Cloud
+ - 💬 &nbsp; Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Go
+ - 🔥 &nbsp; CMS: WordPress, Shopify, Wix, Framer, Webflow
+
+<br>
 
 <table align="center">
   <tr>
