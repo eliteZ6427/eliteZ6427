@@ -12,18 +12,18 @@ I'd love to meet you! Pick a time slot to chat about anything you're passionate 
 
 <a href="https://calendly.com/elite-z-6427/15-meeting" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-<img align="left" alt="GIF" src="techstack.gif" width="250px">
+<img align="left" alt="GIF" src="techstack.gif" width="260px">
 
 ### &nbsp; 🛠️ Technical Skills
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🌱 **Frontend**: React, Next.js, Web3.js, Angular, Vue, Material UI, TailwindCSS  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔭 **Backend**: Node.js, CI, Laravel, Django, Flask, Express, NestJS, PHP  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📱 **Mobile Development**: Android, React Native, Ionic, Flutter  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📂 **Database**: MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, Supabase
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 💻 **Programming Languages**: HTML, JavaScript, TypeScript, Python, PHP, C++, C#, Go
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔥 **CMS Platforms**: WordPress, Shopify, Wix, Framer, Webflow  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ⛓️ **Blockchain**: Solidity, Ethereum, Web3.js, Truffle, IPFS,  Solana, Cosmos SDK  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🎮 **Game Development**: Unity, Unreal Engine, Cocos2d, Game Maker Studio, Three.js 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🌱 **Frontend**: React, Next.js, Web3.js, Angular, Vue, Material UI, TailwindCSS  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔭 **Backend**: Node.js, CI, Laravel, Django, Flask, Express, NestJS, PHP  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📱 **Mobile Development**: Android, React Native, Ionic, Flutter  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📂 **Database**: MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, Supabase  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 💻 **Programming Languages**: HTML, JavaScript, TypeScript, Python, PHP, C++, C#, Go  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔥 **CMS Platforms**: WordPress, Shopify, Wix, Framer, Webflow  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ⛓️ **Blockchain**: Solidity, Ethereum, Web3.js, Truffle, IPFS,  Solana, Cosmos SDK  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🎮 **Game Development**: Unity, Unreal Engine, Cocos2d, Game Maker Studio, Three.js 
 &nbsp;
 <table align="center">
   <tr>
@@ -214,7 +214,7 @@ I'd love to meet you! Pick a time slot to chat about anything you're passionate 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/eliteZ6427/Footprints" title="Footprints"><img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=eliteZ6427&repo=Footprints&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/eliteZ6427/Archeology" title="Archeology"><img align="right" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=eliteZ6427&repo=Archeology&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/eliteZ6427/Footprints" title="Footprints"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=eliteZ6427&repo=Footprints&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/eliteZ6427/Archeology" title="Archeology"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=eliteZ6427&repo=Archeology&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
