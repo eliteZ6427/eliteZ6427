@@ -192,7 +192,7 @@ I'd love to meet you! Pick a time slot to chat about anything you're passionate 
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=eliteZ6427&theme=blue-green&border=61dafb&hide_border=true" alt="eliteZ6427" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=eliteZ6427&theme=vue&border=61dafb&hide_border=true" alt="eliteZ6427" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=eliteZ6427&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
